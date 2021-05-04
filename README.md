@@ -1,7 +1,7 @@
-# Alva Majo VS Haters
+# Lord Draugr VS Only Fans
  
-[Web - Juego](https://vivirenremoto.github.io/alvamajohaters_juego/)
+[Web - Juego](https://vivirenremoto.github.io/lorddraugrfans/)
 
 [Autor](https://twitter.com/vivirenremoto)
 
-![Alva Majo VS Haters](https://vivirenremoto.github.io/alvamajohaters_juego/static/social.jpg)
+![Lord Draugr VS Only Fans](https://vivirenremoto.github.io/lorddraugrfans/static/social.png)
