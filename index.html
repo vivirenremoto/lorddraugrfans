@@ -470,9 +470,6 @@
                 <td>Nick</td>
                 <td>Pts</td>
             </tr>
-            <tr>
-                <td align="center" colspan="3">Cargando...</td>
-            </tr>
         </table>
         <br>
 
@@ -1003,7 +1000,7 @@
             $('#result').hide();
             $('#leaderboard').show();
 
-            $("#leaderboard_table tr:eq(1)").remove();
+            $("#leaderboard_table").html('<tr><td>Pos</td><td>Nick</td><td>Pts</td></tr>');
 
 
             $.getJSON("https://games.vivirenremoto.com/?game=lorddraug&action=rank", function (data) {
